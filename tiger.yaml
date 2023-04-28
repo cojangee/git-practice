@@ -1,6 +1,10 @@
 team: Tigers
 
+<<<<<<< HEAD
 manager: Brenda
+=======
+manager: Kenneth
+>>>>>>> to-rebase
 
 coach: Ruth
 
@@ -8,3 +12,4 @@ members:
   - Linda
   - William
   - David
+  - Tyler
